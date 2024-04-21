@@ -2,7 +2,7 @@
 
 NewPulse AI is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
-!([Management Tool UI.png](https://github.com/shethbhumit/IOWA-Business-Analytics-Case/blob/1085f8c882b39384a6065e780c0c64c7f1f98a48/Management%20Tool%20UI.png))
+![Management Tool UI.png](https://github.com/shethbhumit/IOWA-Business-Analytics-Case/blob/1085f8c882b39384a6065e780c0c64c7f1f98a48/Management%20Tool%20UI.png)
 
 ## Features
 
